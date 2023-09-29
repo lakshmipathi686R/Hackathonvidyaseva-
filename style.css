@@ -284,13 +284,13 @@ a:link{
 }
 
 
-@media (max-width: 1000px) and (min-width:400px) {
+@media (max-width: 1000px) and (min-width:100px) {
   .container {
      flex-direction: column;
     }
    
   }
-  @media (max-width: 1000px) and (min-width:400px) {
+  @media (max-width: 1000px) and (min-width:100px) {
     .container1 {
        flex-direction: column;
        gap: 5rem;
